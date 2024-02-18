@@ -1,0 +1,8 @@
+__pychache__
+env
+blog/__pycache__
+blog/repository/__pycache__
+blog/routes/__pycache__
+.DS_Store
+.vscode
+
